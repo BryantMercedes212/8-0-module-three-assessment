@@ -5,7 +5,7 @@ class People extends Component {
     super();
     this.state = {
       input: "",
-      search: "",
+      search: {},
     };
   }
 
